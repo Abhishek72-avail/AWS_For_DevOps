@@ -1,4 +1,4 @@
-# aws-devops-zero-to-hero
+# AWS-For-DevOps-Zero-to-Hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
 
