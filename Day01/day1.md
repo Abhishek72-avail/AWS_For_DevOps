@@ -14,7 +14,6 @@ Cloud computing delivers computing resources—servers, storage, databases, netw
 - **Cost-Effective:** Pay only for what you use.
 - **Scalable:** Easily scale up or down as your needs change.
 - **Flexible:** Access resources from anywhere with an internet connection.
-
 ---
 
 ## 🌐 Types of Cloud Deployment
